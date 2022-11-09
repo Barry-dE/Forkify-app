@@ -1,2 +1,2 @@
 # Forkify-app
-A web-based app for custom recipe
+## A web-based app for custom recipe
